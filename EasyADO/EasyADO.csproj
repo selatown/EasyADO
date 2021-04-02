@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <ReleaseVersion>1.0.0</ReleaseVersion>
+    <ReleaseVersion>1.0.1</ReleaseVersion>
     <PackOnBuild>true</PackOnBuild>
     <Authors>Vichet Seyla</Authors>
     <Copyright>Vichet Seyla</Copyright>
@@ -13,6 +13,7 @@
     <Summary>Easy to use ADO.NET helper for common database actions and a few other helpers</Summary>
     <Title>EasyADO</Title>
     <Description>Easy to use ADO.NET helper for common database actions and a few other helpers</Description>
+    <PackageVersion>1.0.1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
