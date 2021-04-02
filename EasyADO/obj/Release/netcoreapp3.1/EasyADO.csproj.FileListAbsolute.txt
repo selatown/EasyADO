@@ -1,0 +1,9 @@
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/EasyADO.deps.json
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/EasyADO.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/EasyADO.pdb
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/obj/Release/netcoreapp3.1/EasyADO.csprojAssemblyReference.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/obj/Release/netcoreapp3.1/EasyADO.AssemblyInfoInputs.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/obj/Release/netcoreapp3.1/EasyADO.AssemblyInfo.cs
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/obj/Release/netcoreapp3.1/EasyADO.csproj.CoreCompileInputs.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/obj/Release/netcoreapp3.1/EasyADO.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/obj/Release/netcoreapp3.1/EasyADO.pdb

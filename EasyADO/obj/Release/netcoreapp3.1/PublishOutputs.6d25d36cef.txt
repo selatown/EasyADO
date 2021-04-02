@@ -1,0 +1,9 @@
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/publish/EasyADO.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/publish/EasyADO.deps.json
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/publish/EasyADO.pdb
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/publish/System.Data.SqlClient.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/publish/runtimes/win-arm64/native/sni.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/publish/runtimes/win-x64/native/sni.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/publish/runtimes/win-x86/native/sni.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/publish/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/publish/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll

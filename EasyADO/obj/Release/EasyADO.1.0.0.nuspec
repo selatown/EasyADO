@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EasyADO</id>
+    <version>1.0.0</version>
+    <title>EasyADO</title>
+    <authors>Vichet Seyla</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/selatown/EasyADO</projectUrl>
+    <description>Easy to use ADO.NET helper for common database actions and a few other helpers</description>
+    <copyright>Vichet Seyla</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.Data.SqlClient" version="4.8.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/ace/Desktop/SEYLA/ASP.NET Core Libraries/New/EasyADO/EasyADO/bin/Release/netcoreapp3.1/EasyADO.dll" target="lib/netcoreapp3.1/EasyADO.dll" />
+  </files>
+</package>

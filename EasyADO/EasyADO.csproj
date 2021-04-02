@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <ReleaseVersion>1.0.0</ReleaseVersion>
+    <PackOnBuild>true</PackOnBuild>
+    <Authors>Vichet Seyla</Authors>
+    <Copyright>Vichet Seyla</Copyright>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Owners>Vichet Seyla</Owners>
+    <PackageProjectUrl>https://github.com/selatown/EasyADO</PackageProjectUrl>
+    <Summary>Easy to use ADO.NET helper for common database actions and a few other helpers</Summary>
+    <Title>EasyADO</Title>
+    <Description>Easy to use ADO.NET helper for common database actions and a few other helpers</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+</Project>
